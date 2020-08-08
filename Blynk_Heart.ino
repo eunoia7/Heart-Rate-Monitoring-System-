@@ -12,8 +12,8 @@ SimpleTimer timer;
 char auth[] = " 0943b4b2b46c414391967788e8c0d8a0";            // You should get Auth Token in the Blynk App.
                                            // Go to the Project Settings (nut icon).
 
-char ssid[] = "sera";    // Your WiFi credentials.
-char pass[] = "12345678";  // Set password to "" for open networks.
+char ssid[] = "sera";    
+char pass[] = "12345678";  
 
 
 void setup() {
